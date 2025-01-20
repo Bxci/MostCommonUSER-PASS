@@ -18,40 +18,6 @@ backup
 operator
 pcuser
 default
-Let me know if you need a script to generate or manage these!
-
-
-
-
-
-
-
-You said:
-now make that long like 100
-ChatGPT said:
-ChatGPT
-Here’s an extended list of 100 common PC usernames, including msfadmin:
-
-admin
-administrator
-root
-user
-guest
-test
-msfadmin
-ubuntu
-kali
-student
-manager
-owner
-localuser
-developer
-system
-tech
-backup
-operator
-pcuser
-default
 support
 service
 helpdesk
